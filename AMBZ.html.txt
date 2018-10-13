@@ -1,0 +1,20 @@
+<html>
+
+	<head>
+		<Title>AmberCollection</title>
+
+	</head>
+
+	<body background="oingy.jpg">
+
+	   <h1><font color="White">AmberzCollection</h1>
+		<i>Welcome</i>
+<br>
+
+			<img src="candle1.jpg">
+<br>
+			<img src="candle3.jpg">
+	</font>
+	</body>
+
+</html>
